@@ -1,0 +1,201 @@
+2024-04-15 10:36:01,671 - INFO - ====== WebDriver manager ======
+2024-04-15 10:36:02,418 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:36:02,423 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:36:02,423 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 10:36:02,423 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:36:06,339 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 10:36:06,342 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 10:36:06,342 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 10:36:08,305 - INFO - Driver downloading response is 200
+2024-04-15 10:36:09,520 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:36:09,633 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 10:36:29,398 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None)': /session/d54c767728efd677e2f2451c7b77492f/cookie
+2024-04-15 10:36:33,484 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A95C4E3250>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/d54c767728efd677e2f2451c7b77492f/cookie
+2024-04-15 10:36:37,521 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A95C4E0190>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/d54c767728efd677e2f2451c7b77492f/cookie
+2024-04-15 10:37:08,364 - INFO - ====== WebDriver manager ======
+2024-04-15 10:37:09,013 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:37:09,018 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:37:09,018 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 10:37:09,018 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:37:14,133 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 10:37:14,135 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 10:37:14,135 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 10:37:16,358 - INFO - Driver downloading response is 200
+2024-04-15 10:37:18,131 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 10:37:18,233 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 11:18:40,394 - INFO - ====== WebDriver manager ======
+2024-04-15 11:18:41,008 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:18:41,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:18:41,010 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 11:18:41,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:18:44,546 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 11:18:44,549 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:18:44,549 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:18:47,213 - INFO - Driver downloading response is 200
+2024-04-15 11:18:48,636 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:18:48,785 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 11:22:31,655 - INFO - ====== WebDriver manager ======
+2024-04-15 11:22:32,305 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:22:32,306 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:22:32,306 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 11:22:32,306 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:22:36,351 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 11:22:36,353 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:22:36,353 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:22:41,171 - INFO - Driver downloading response is 200
+2024-04-15 11:22:45,640 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:22:45,741 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 11:24:48,629 - INFO - ====== WebDriver manager ======
+2024-04-15 11:24:49,287 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:24:49,288 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:24:49,288 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 11:24:49,288 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:24:52,683 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 11:24:52,685 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:24:52,685 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:24:56,164 - INFO - Driver downloading response is 200
+2024-04-15 11:24:58,409 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:24:58,531 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 11:28:04,177 - INFO - ====== WebDriver manager ======
+2024-04-15 11:28:04,846 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:28:04,847 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:28:04,847 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 11:28:04,847 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:28:07,761 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 11:28:07,762 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:28:07,763 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:28:10,818 - INFO - Driver downloading response is 200
+2024-04-15 11:28:12,472 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:28:12,571 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 11:30:33,376 - INFO - ====== WebDriver manager ======
+2024-04-15 11:30:34,004 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:30:34,006 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:30:34,006 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 11:30:34,006 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:30:39,648 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 11:30:39,650 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:30:39,650 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 11:30:41,744 - INFO - Driver downloading response is 200
+2024-04-15 11:30:43,148 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 11:30:43,244 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:17:16,693 - INFO - ====== WebDriver manager ======
+2024-04-15 13:17:17,409 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:17:17,414 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:17:17,414 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:17:17,414 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:17:20,749 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:17:20,750 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:17:20,750 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:17:24,021 - INFO - Driver downloading response is 200
+2024-04-15 13:17:26,147 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:17:26,245 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:20:35,887 - INFO - ====== WebDriver manager ======
+2024-04-15 13:20:36,579 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:20:36,581 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:20:36,581 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:20:36,581 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:20:37,642 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:20:37,644 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:20:37,644 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:20:42,752 - INFO - Driver downloading response is 200
+2024-04-15 13:20:54,405 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:20:54,502 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:22:19,326 - INFO - ====== WebDriver manager ======
+2024-04-15 13:22:20,022 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:22:20,023 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:22:20,024 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:22:20,024 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:22:22,637 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:22:22,638 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:22:22,639 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:22:24,494 - INFO - Driver downloading response is 200
+2024-04-15 13:22:25,523 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:22:25,621 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:33:01,175 - INFO - ====== WebDriver manager ======
+2024-04-15 13:33:01,884 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:33:01,885 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:33:01,887 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:33:01,887 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:33:05,059 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:33:05,061 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:33:05,061 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:33:06,714 - INFO - Driver downloading response is 200
+2024-04-15 13:33:08,109 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:33:08,208 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:35:55,355 - INFO - ====== WebDriver manager ======
+2024-04-15 13:35:56,007 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:35:56,008 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:35:56,008 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:35:56,008 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:35:59,896 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:35:59,898 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:35:59,898 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:36:04,087 - INFO - Driver downloading response is 200
+2024-04-15 13:36:06,582 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:36:06,708 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:38:54,446 - INFO - ====== WebDriver manager ======
+2024-04-15 13:38:55,105 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:38:55,107 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:38:55,107 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:38:55,107 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:38:57,721 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:38:57,724 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:38:57,724 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:38:58,570 - INFO - Driver downloading response is 200
+2024-04-15 13:38:59,571 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:38:59,682 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:42:21,079 - INFO - ====== WebDriver manager ======
+2024-04-15 13:42:21,733 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:42:21,735 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:42:21,735 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:42:21,735 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:42:27,068 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:42:27,070 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:42:27,070 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:42:28,223 - INFO - Driver downloading response is 200
+2024-04-15 13:42:28,991 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:42:29,099 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:44:51,023 - INFO - ====== WebDriver manager ======
+2024-04-15 13:44:51,893 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:44:51,894 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:44:51,894 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:44:51,894 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:44:57,380 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:44:57,382 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:44:57,383 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:44:59,053 - INFO - Driver downloading response is 200
+2024-04-15 13:45:00,546 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:45:00,652 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:50:26,622 - INFO - ====== WebDriver manager ======
+2024-04-15 13:50:27,398 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:50:27,398 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:50:27,399 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:50:27,399 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:50:30,747 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:50:30,749 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:50:30,749 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:50:33,824 - INFO - Driver downloading response is 200
+2024-04-15 13:50:35,394 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:50:35,504 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:53:47,665 - INFO - ====== WebDriver manager ======
+2024-04-15 13:53:48,295 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:53:48,297 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:53:48,297 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:53:48,297 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:53:55,762 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:53:55,763 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:53:55,763 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:53:57,424 - INFO - Driver downloading response is 200
+2024-04-15 13:53:58,891 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:53:58,988 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
+2024-04-15 13:59:16,423 - INFO - ====== WebDriver manager ======
+2024-04-15 13:59:17,070 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:59:17,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:59:17,071 - INFO - There is no [win64] chromedriver "122.0.6261.131" for browser google-chrome "122.0.6261.131" in cache
+2024-04-15 13:59:17,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:59:21,072 - INFO - WebDriver version 122.0.6261.128 selected
+2024-04-15 13:59:21,074 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:59:21,074 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-04-15 13:59:23,550 - INFO - Driver downloading response is 200
+2024-04-15 13:59:24,771 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-15 13:59:24,869 - INFO - Driver has been saved in cache [C:\Users\wpghk\.wdm\drivers\chromedriver\win64\122.0.6261.131]
