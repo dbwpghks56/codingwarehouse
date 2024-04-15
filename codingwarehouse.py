@@ -173,6 +173,22 @@ for curr in range(int(currPage)+1, int(maxPagelen) + 1):
                 answer문제내용 = driverDetail.find_element(By.ID, 'problem_description').text
                 
                 try:
+                    # 이미지 태그 선택
+                    image_tag = driverDetail.find_element(By.CSS_SELECTOR, "img.solvedac-tier")
+
+                    # src 속성 가져오기
+                    src_attribute = image_tag.get_attribute("src")
+
+                    # ".svg" 제외한 부분 추출
+                    image_number = src_attribute.split("/")[-1].replace(".svg", "")
+
+                    # 결과 출력
+                    answer난이도 = image_number
+
+                except:
+                    print("이미지를 찾을 수 없습니다.")
+                
+                try:
                     clickA = driverDetail.find_element(By.CLASS_NAME, 'show-spoiler')
                     
                     clickA.click()
@@ -194,7 +210,7 @@ for curr in range(int(currPage)+1, int(maxPagelen) + 1):
                     answer태그 += tag.text + ", "
                 
                 sheet.append([answer문제번호, answer문제제목, answer문제내용, answer시간제한, answer메모리제한,
-                                        answer총시도, answer맞춘시도, answer맞힌사람, answer정답비율, "", answer태그, answer출처])
+                                        answer총시도, answer맞춘시도, answer맞힌사람, answer정답비율, answer난이도, answer태그, answer출처])
                 
                 workbook.save(excelPath)
                 
